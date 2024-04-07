@@ -1,5 +1,4 @@
 ;PROYECTO #1 - Simon Dice 
-;ALUMNA: Tania Priscila Schulz Villalba
 
 .model small
 .stack 100h  
